@@ -1,2 +1,2 @@
 Get a stong and motivational quote 🗿🗿
-https://stoicthoughts.vercel.app/
+https://advicemenow.vercel.app

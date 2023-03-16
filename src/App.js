@@ -42,30 +42,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-
-//------------------------------
-
-// class App extends React.Component {
-//   state = { advice: "" };
-
-//   componentDidMount() {
-//     this.fetchAdvice();
-//   }
-
-//   fetchAdvice = () => {
-//     axios
-//       .get("https://api.adviceslip.com/advice")
-//       .then((response) => {
-//         this.setState({ advice: response.data.slip.advice });
-//       })
-//       .catch((error) => {
-//         console.log(error);
-//       });
-//   };
-
-//   render() {
-//     console.log(this.state.advice);
-//     return <h1>Hello World</h1>;
-//   }
-// }
